@@ -45,8 +45,7 @@ def main():
     warnings.filterwarnings('ignore', category=FutureWarning)
 
     # --- Налаштування шляхів до файлів ---
-    # TODO: Вкажіть правильні шляхи до ваших файлів
-    ecg_file_path = "A1.txt"      # Файл з даними ЕКГ
+    ecg_file_path = "A18.txt"      # Файл з даними ЕКГ
     bike_day_file_path = "day.csv" # Файл з даними про велосипеди
 
     # --- Завантаження даних ---
